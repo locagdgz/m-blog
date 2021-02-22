@@ -6,6 +6,10 @@ export const HeaderWrapper = styled.div`
     overflow: hidden;
     height: 3.2rem;
     border-bottom:1px solid #eee;
+    position:fixed ;
+    z-index: 999;
+    width: 100%;
+
     .header-logo{
         color:#1e90ff;
         font-size: 1.4rem;

@@ -358,6 +358,10 @@ template {
   padding: 0.3rem;
   border-radius: 0.3rem;
   border: 1px solid #eee;
+  margin-top: 60px;
+}
+.comm-right {
+    margin-top: 60px;
 }
 /* .comm-right {
   background-color: #fff;
@@ -372,4 +376,5 @@ template {
   padding: 0.3rem;
   border-radius: 0.3rem;
   border: 1px solid #eee;
+  position: relative;
 }
